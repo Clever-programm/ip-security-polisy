@@ -1,0 +1,7 @@
+﻿# Пример списка
+example.com
+https://www.example.org/some/page
+мойгород.рус
+aliexpress.ru NS1
+185.62.202.2
+10.20.0.0/16
